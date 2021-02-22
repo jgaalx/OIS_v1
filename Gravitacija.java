@@ -4,7 +4,7 @@ public class Gravitacija {
 
     }
 
-    public static void izpis(int n, int k) {
+    public static void izpis(double n, double k) {
         System.out.println(n);
         System.out.println(k);
 
